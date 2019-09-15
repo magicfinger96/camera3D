@@ -1,5 +1,5 @@
 # Caméra 3D
-
+![alt text](https://github.com/magicfinger96/camera3D/blob/master/img/screen.PNG)
 Pour compiler: make
 Pour executer: ./exec
 
